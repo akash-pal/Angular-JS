@@ -1,0 +1,19 @@
+//small project
+app
+|
+|-----app.js
+|
+|-----controller
+|
+|-----css
+|
+|
+
+//large project
+app
+|
+|-----app.js
+|
+|-----products
+		|
+		|-------productController
