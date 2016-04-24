@@ -2,9 +2,9 @@
 
 SPA (Single Page Application) of Customer Application and Customers Orders.
 View each customers details and orders.
-View all the orders made by customers and the overall cost.
-Ability to filer and view. 
-Ability to remove a customers record.
+View all the orders made by customer's and the overall cost.
+Ability to filter and view. 
+Ability to remove a customer's record.
 
 CUSTOMER APPLICATION
 <a href="http://imgur.com/HxZZEEX"><img src="http://i.imgur.com/HxZZEEX.png" title="source: imgur.com" /></a>
