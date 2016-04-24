@@ -1,6 +1,19 @@
 # Angular-JS
-angular js project
 
+SPA (Single Page Application) of Customer Application and Customers Orders.
+View each customers details and orders.
+View all the orders made by customers and the overall cost.
+Ability to filer and view. 
+Ability to remove a customers record.
+
+CUSTOMER APPLICATION
+<a href="http://imgur.com/HxZZEEX"><img src="http://i.imgur.com/HxZZEEX.png" title="source: imgur.com" /></a>
+
+CUSTOMERS ORDERS
+<a href="http://imgur.com/wYSIhC6"><img src="http://i.imgur.com/wYSIhC6.png" title="source: imgur.com" /></a>
+
+INDIVIDUAL CUSTOMER DETAILS
+<a href="http://imgur.com/pSs58G2"><img src="http://i.imgur.com/pSs58G2.png" title="source: imgur.com" /></a>
 
 To run the project use Bracket Software.
 
